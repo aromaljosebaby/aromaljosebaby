@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://github.com/aromaljosebaby/aromaljosebaby/blob/main/Blue%20Ocean%20Waves%20Spring%20Break%20Promo%20Instagram%20Post.png)
+![alt text](https://github.com/aromaljosebaby/aromaljosebaby/blob/main/WhatsApp%20Image%202021-01-12%20at%203.01.06%20PM.jpeg)
 
 
 
