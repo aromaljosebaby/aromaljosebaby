@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://raw.githubusercontent.com/aromaljosebaby/<OWNER>/<OWNER>/Blue Ocean Waves Spring Break Promo Instagram Post.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/aromaljosebaby/<OWNER>/<OWNER>/Blue Ocean Waves Spring Break Promo Instagram Post.png "Header")](https://github.com/aromaljosebaby/aromaljosebaby/blob/main/Blue%20Ocean%20Waves%20Spring%20Break%20Promo%20Instagram%20Post.png)
 
 
 
