@@ -17,28 +17,28 @@ Here are some ideas to get you started:
 
 ![alt text](https://github.com/aromaljosebaby/aromaljosebaby/blob/main/WhatsApp%20Image%202021-01-12%20at%203.01.06%20PM.jpeg)
 
-[![Header](https://github.com/aromaljosebaby/aromaljosebaby/blob/main/Blue%20Ocean%20Waves%20Spring%20Break%20Promo%20Instagram%20Post.png "Header")](https://martinheinz.dev/)
+
 
 
 
 ### My name is Aromal Jose Baby  👋 and I'm a self taught programmer. I'm from India, living in Kochi
 
 
+<br>
 
 
 
-### Hi there, I'm Sabesan Sathananthan - aka [Sabesan][website] 👋
 
 ## I'm a Student, Undergraduate, Developer, and  techinical content writer!
 
-
+<br>
 
 ### Connect with me:
 
 
-[<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Aromal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Aromal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aromal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
