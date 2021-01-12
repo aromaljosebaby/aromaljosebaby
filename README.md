@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Header](https://raw.githubusercontent.com/aromaljosebaby/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 
-My name is Aromal Jose Baby and I'm a self taught programmer. I'm from India, living in Kochi. You can find me on Instagram , LinkedIn Twitter. 
+### My name is Aromal Jose Baby  👋 and I'm a self taught programmer. I'm from India, living in Kochi
 
 
 
@@ -26,13 +26,9 @@ My name is Aromal Jose Baby and I'm a self taught programmer. I'm from India, li
 
 ### Hi there, I'm Sabesan Sathananthan - aka [Sabesan][website] 👋
 
-## I'm a Student, Undergraduate, Developer, and Physics Teacher!
+## I'm a Student, Undergraduate, Developer, and  techinical content writer!
 
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Fullstack and Machine Learning
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess and listen music.
+
 
 ### Connect with me:
 
