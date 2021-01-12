@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+My name is Aromal Jose Baby and I'm a self taught programmer. I'm from India, living in Kochi. You can find me on Instagram , LinkedIn Twitter. h
