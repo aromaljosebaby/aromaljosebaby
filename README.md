@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 
 ## 📝 Blog and writing 
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz)
+Apart from coding, I also maintain a blog - you can find my articles on my website at [here](https://loopthrough.tech/) 
 
 ### Medium
 
