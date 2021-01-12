@@ -36,8 +36,7 @@ My name is Aromal Jose Baby and I'm a self taught programmer. I'm from India, li
 
 ### Connect with me:
 
-[<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+
 [<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -143,15 +142,14 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <a href="https://github.com/sabesansathananthan">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github.com/sabesansathananthan">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
+<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aromaljosebaby&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github.com/aromaljosebaby">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aromaljosebaby&layout=compact&theme=radical" />
 </a>
 
 ---
 
-[website]: https://sabesansathananthan.now.sh
-[twitter]: https://twitter.com/TheSabesan
-[facebook]: https://www.facebook.com/sathananthan.sabesan
-[instagram]: https://www.instagram.com/s_sabesan
-[linkedin]: https://www.linkedin.com/in/sabesan96
+
+[twitter]: https://twitter.com/baby_aromal
+[instagram]: https://www.instagram.com/aromaljosebaby/
+[linkedin]: https://www.linkedin.com/in/aromal-jose-baby-3897221b7/
