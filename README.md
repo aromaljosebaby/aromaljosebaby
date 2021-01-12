@@ -122,9 +122,9 @@ Here are some ideas to get you started:
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 Blog and writing 
 
-These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to](https://dev.to/thesabesan):
+Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz)
 
 ### Medium
 
@@ -154,6 +154,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 [linkedin]: https://www.linkedin.com/in/aromal-jose-baby-3897221b7/
 
 
-## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz)
+
+
