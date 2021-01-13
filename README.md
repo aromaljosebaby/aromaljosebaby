@@ -49,16 +49,20 @@ Here are some ideas to get you started:
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
+
 [<code>
 <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
 </code>](https://www.jetbrains.com/idea/)
+
 [<code>
 <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
 </code>](https://www.jetbrains.com/pycharm/)
+
 [<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
+
+
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
@@ -66,6 +70,7 @@ Here are some ideas to get you started:
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 [<code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -82,17 +87,21 @@ Here are some ideas to get you started:
 [<code>
 <img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
 </code>](https://www.markdownguide.org/)
+
 [<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
+
 [<code>
 <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
 </code>](https://github.com/)
 
-<br />
+
 [<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
+<img alt="github" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
+
+
 
 
 
