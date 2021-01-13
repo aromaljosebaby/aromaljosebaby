@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-### My name is Aromal Jose Baby  👋 and I'm a self taught programmer. I'm from India, living in Kochi
+### My name is Aromal Jose Baby  👋 and I'm a self taught programmer. I'm from India, living in Kochi :)
 
 
 <br>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
+</code>](https://code.visualstudio.com/)<br>
 [<code>
 <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
 </code>](https://www.jetbrains.com/idea/)
@@ -124,17 +124,11 @@ Here are some ideas to get you started:
 
 ## 📝 Blog and writing 
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [here](https://loopthrough.tech/) 
+Apart from coding, I also maintain a blog - you can find my articles on my website at [Loopthrough.tech](https://loopthrough.tech/) 
 
-### Medium
 
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
 
-### Dev Community
 
-<!-- DEVTO:START -->
-<!-- DEVTO:END -->
 
 ---
 
