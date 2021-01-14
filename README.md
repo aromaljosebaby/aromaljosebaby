@@ -57,12 +57,12 @@ Here are some ideas to get you started:
 
 [
 <img alt="tensorflow" width="26px"  align="left" src="https://img.icons8.com/color/48/000000/tensorflow.png" />
-](https://www.jetbrains.com/idea/)
+](https://www.tensorflow.org/)
 
 
 [
 <img alt="django" width="32px" align="left" src="https://img.icons8.com/color/48/000000/django.png" />
-](https://www.jetbrains.com/idea/)
+](https://www.djangoproject.com/)
 
 
 
