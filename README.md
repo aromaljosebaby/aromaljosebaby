@@ -56,8 +56,15 @@ Here are some ideas to get you started:
 
 
 [
-<img alt="intellij idea" width="26px"  align="left" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+<img alt="intellij idea" width="26px"  align="left" src="https://img.icons8.com/color/48/000000/tensorflow.png" />
 ](https://www.jetbrains.com/idea/)
+
+
+[
+<img alt="intellij idea" width="26px"  align="left" src="https://img.icons8.com/ios-filled/50/000000/django.png" />
+](https://www.jetbrains.com/idea/)
+
+
 
 [
 <img alt="pycharm" width="26px" align="left"  src="https://img.icons8.com/color/240/000000/pycharm.png" />
